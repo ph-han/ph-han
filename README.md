@@ -8,9 +8,19 @@
   <img src="https://img.shields.io/badge/hanfeelhoo@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=ffffff"/>
 </a>
 
-### Hi there 👋, My name is Pilho Han
+### Hi there 👋
 
-#### I'm interested in C/C++, python and Computer Vision
+My name is Pilho Han.<br>
+I haven't found my field of interest in computer science yet.<br>
+So, I am looking for my field of interest... (Computer Vision, IoT, Graphics, ML/DL...etc)<br>
+
+<!--
+#### Project
++ project name (20YY.M - 20YY.M, Days)
++ Service Desk Consultation Notes website (2022.6 - 2022.7)
+  + It was made in Military Service at ROKAF (DIDC 2 Center)
+  + It was used by Service Desk
+-->
 
 ##### Education
 > + B.S Division of Computer Science, Hanyang University ERICA Campus (2020.3 - Present)
@@ -23,17 +33,3 @@
 <hr>
 
 ![Pilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ph-han&show_icons=true&theme=ayu-mirage)
-<!--
-**ph-han/ph-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
