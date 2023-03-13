@@ -33,3 +33,4 @@ So, I am looking for my field of interest... (Computer Vision, IoT, Graphics, ML
 <hr>
 
 ![Pilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ph-han&show_icons=true&theme=ayu-mirage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph-han&langs_count=5&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
