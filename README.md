@@ -1,4 +1,4 @@
-<a href="https://42seoul.kr/seoul42/main/view" target="_blank">
+<a href="https://github.com/ph-han/42seoul" target="_blank">
   <img src="https://img.shields.io/badge/Seoul-000000?style=flat&logo=42&logoColor=ffffff"/>
 </a>
 <a href="https://www.linkedin.com/in/pilho-han-0965b0211" target="_blank">
