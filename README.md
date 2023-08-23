@@ -14,6 +14,8 @@ My name is Pilho Han.<br>
 I haven't found my field of interest in computer science yet.<br>
 So, I am looking for my field of interest... (Computer Vision, IoT, Graphics, ML/DL...etc)<br>
 
+> What I cannot create, I do not understand. - Richard Feynman -
+
 <!--
 #### Project
 + project name (20YY.M - 20YY.M, Days)
