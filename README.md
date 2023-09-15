@@ -14,23 +14,25 @@ My name is Pilho Han.<br>
 I haven't found my field of interest in computer science yet.<br>
 So, I am looking for my field of interest... (Computer Vision, IoT, Graphics, ML/DL...etc)<br>
 
-> What I cannot create, I do not understand. - Richard Feynman -
-
 <!--
 #### Project
 + project name (20YY.M - 20YY.M, Days)
-+ Service Desk Consultation Notes website (2022.6 - 2022.7)
++ Service Desk Consultation Notes website (2022.6 - 2022.9)
   + It was made in Military Service at ROKAF (DIDC 2 Center)
   + It was used by Service Desk
 -->
 
 ##### Education
 > + B.S Division of Computer Science, Hanyang University ERICA Campus (2020.3 - Present)
-> + 42Seoul Cadet (2023.3 - Present)
+> + 42Seoul Student (2023.3 - Present)
 
 ##### Hobbies
 > + watching Netflix 📺
 > + badminton 🏸 and table tennis 🏓
+
+<hr>
+
+> What I cannot create, I do not understand. - Richard Feynman -
 
 <hr>
 
