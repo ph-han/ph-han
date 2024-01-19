@@ -11,8 +11,8 @@
 ### Hi there 👋
 
 My name is Pilho Han.<br>
-I haven't found my field of interest in computer science yet.<br>
-So, I am looking for my field of interest... (Computer Vision, IoT, Graphics, ML/DL...etc)<br>
+I'm currently interested in Graphics, Vision, ML/DL, and Embedded. <br>
+Now I'm studying about Graphics and Vision. <br>
 
 <!--
 #### Project
