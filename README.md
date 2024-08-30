@@ -7,11 +7,11 @@
 
 ### Hi there 👋
 
-My name is Pilho Han.<br>
+My name is Pilho Han(<a href="https://www.phan.kr" target="_blank">
+ HomePage
+</a>).<br>
 I'm currently interested in Graphics, Vision, ML/DL, and Embedded. <br>
 Now I'm studying about Graphics and Vision. <br>
-
-<a href="https://www.phan.kr" target="_blank">Personal website</a>
 
 <hr>
 
