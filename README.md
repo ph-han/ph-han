@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-My name is Pilho Han(<a href="https://phan.kr" target="_blank">
+My name is **Han Pilho**(<a href="https://phan.kr" target="_blank">
  HomePage
 </a>).<br>
 I'm currently pursuing a B.S. in Computer Science at Hanyang University, ERICA (Ansan, South Korea).  
