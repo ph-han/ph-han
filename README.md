@@ -10,8 +10,8 @@
 My name is Pilho Han(<a href="https://phan.kr" target="_blank">
  HomePage
 </a>).<br>
-I'm currently interested in Graphics, Vision, ML/DL, and Embedded. <br>
-Now I'm studying about Graphics and Vision. <br>
+I'm currently pursuing a B.S. in Computer Science at Hanyang University, ERICA (Ansan, South Korea).  
+I'm particularly interested in autonomous vehicles and their applications in real-world environments.
 
 <hr>
 
