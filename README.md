@@ -7,13 +7,11 @@
 
 ### Hi there 👋
 
-My name is **Han Pilho**(<a href="https://phan.kr" target="_blank">
- HomePage
-</a>).<br>
-I'm currently pursuing a B.S. in Computer Science at Hanyang University, ERICA (Ansan, South Korea).  
-I'm particularly interested in autonomous vehicles and their applications in real-world environments.  
-I'm currently studying as an undergraduate researcher at <a href="https://sites.google.com/view/aimind-hyu" target="_blank">AiMIND Lab</a> ([Prof. Dongchan Kim](https://dongchan0507.wixsite.com/hyu-erica)),   
-studying motion planning and other topics related to autonomous driving.
+Hi, I'm Pilho Han, a B.S. student in Computer Science at **Hanyang University ERICA** in Ansan, South Korea.
+
+I am an undergraduate researcher at the <a href="https://sites.google.com/view/aimind-hyu" target="_blank">AiMIND Lab</a>, advised by [Prof. Dongchan Kim](https://dongchan0507.wixsite.com/hyu-erica).
+
+My research interests include autonomous driving and motion planning, with a focus on real-world applications. Recently, I have become particularly interested in generative model-based motion planning using diffusion models and flow matching, as well as reinforcement learning.
 
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
